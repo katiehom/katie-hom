@@ -2072,6 +2072,7 @@ input, select, textarea {
 		height: 24em;
 		background: url("../../images/katieDark2.jpg") center center;
 		background-size: cover;
+		background-color: rgb(25, 25, 25);
 		padding: 0;
 	}
 
