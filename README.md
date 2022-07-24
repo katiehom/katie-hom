@@ -1,6 +1,7 @@
 # KatieHom.com
 
 ###Portfolio site displaying my work and contact information
+
 <p align="center">
   <a href="https://katiehom.netlify.app/" target="_blank">
     <img src="https://user-images.githubusercontent.com/52755177/180629038-d72d6efb-8180-4b1f-b6cb-72c5c85a69d8.gif" alt="KatieHom.com"/>
