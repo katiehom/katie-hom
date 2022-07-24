@@ -1,6 +1,6 @@
 # KatieHom.com
 
-###Portfolio site displaying my work and contact information
+### Portfolio site displaying my work and contact information
 
 <p align="center">
   <a href="https://katiehom.netlify.app/" target="_blank">
