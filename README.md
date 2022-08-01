@@ -22,7 +22,7 @@
 
 **Tech used:** <strong>HTML, CSS, JavaScript</strong>
 
-My site was focused on clean and clear content with a responsive user-friendly interface.
+My site was focused on clean and clear content with a responsive, user-friendly interface.
 
 ## Optimizations
 In the future, I would like to keep updating and adding projects and consider adding a dark mode option. 
