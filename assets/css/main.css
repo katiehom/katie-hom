@@ -2285,6 +2285,14 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 		}
 
+		.highlights-para {
+			margin-bottom: 0;
+		}
+
+		.highlights-action {
+			margin-top: 1rem !important;
+		}
+
 /* Main */
 
 	#katieHom img {
